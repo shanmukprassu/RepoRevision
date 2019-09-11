@@ -6,3 +6,5 @@ Cummins
 Newzeland
 England
 Bangladesh
+Apple
+Banana
