@@ -8,3 +8,5 @@ England
 Bangladesh
 Apple
 Banana
+Nike
+Adidas
