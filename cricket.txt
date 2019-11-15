@@ -5,4 +5,12 @@ Smith
 Cummins
 Newzeland
 England
+<<<<<<< HEAD
 Bangladesh
+Apple
+Banana
+Nike
+Adidas
+=======
+Bangladesh
+>>>>>>> parent of f500239... Added snacks to the players
